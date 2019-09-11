@@ -1,0 +1,35 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#mainWindow{
+	-fx-background-color: radial-gradient(radius 120%, #ff794d ,#ff4d4d, #ffa64d);
+}
+
+#mainText{
+	-fx-font-size: 25;
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-font-weight: bold;
+	-fx-fill: white;
+	-fx-stroke: black;
+	-fx-stroke-width: 1px;
+}
+
+#mainButtons{
+	-fx-font-size: 18;
+	-fx-font-family: "Impact", Charcoal, sans-seif;
+	-fx-font-weight: bold;
+	-fx-text-fill: #ff4d4d;
+	-fx-background-color: #ffff4d;
+}
+
+#smallButtons{
+	-fx-font-size: 14;
+	-fx-font-family: "Impact", Charcoal, sans-seif;
+	-fx-font-weight: bold;
+	-fx-text-fill: #ff4d4d;
+	-fx-background-color: #ffff4d;
+}
+#gameText{
+	-fx-font-family: "Impact", Charcoal, sans-serif;
+	-fx-font-size: 16;
+	-fx-stroke: white;
+	-fx-stroke-width: 1px;
+}
