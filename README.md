@@ -11,4 +11,4 @@
   This game was created for my high school project. It was a basic Hot Potato game that uses Stacks and Queues. 
 </p>
 
-<h3 align="center">⚠️ <ins>This project does not demonstrate my current skills as this was created over 3 years ago!</ins> ⚠️</h3>
+<h4 align="center">⚠️ This project does not demonstrate my current skills as this was created over 3 years ago! ⚠️</h4>
